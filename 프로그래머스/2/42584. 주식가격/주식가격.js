@@ -1,10 +1,19 @@
 function solution(prices) {
-    return prices.map((v, i) => {
-        for(let j = i + 1; j < prices.length; j++ ) {
-            if(v > prices[j]) {
-                return j - i
-            }
+    const answer = Array(prices.length).fill(0)
+    const stack = []
+
+    for (let i = 0; i < prices.length; i++) {
+        while (stack.length > 0 && prices[stack[stack.length - 1]] > prices[i]) {
+            const prevIndex = stack.pop()
+            answer[prevIndex] = i - prevIndex
         }
-        return prices.length - 1 - i
-    })
+        stack.push(i)
+    }
+
+    while (stack.length > 0) {
+        const prevIndex = stack.pop()
+        answer[prevIndex] = prices.length - 1 - prevIndex
+    }
+
+    return answer
 }
