@@ -1,12 +1,14 @@
 function solution(phone_book) {
-  const sortByLength = [...phone_book].sort()
+    const sortedPhoneBook = [...phone_book].sort()
 
-  for (let i = 0; i < sortByLength.length - 1; i++) {
-    if (sortByLength[i + 1].startsWith(sortByLength[i])) {
-      return false
+    for (let i = 0; i < sortedPhoneBook.length - 1; i++) {
+        const current = sortedPhoneBook[i]
+        const next = sortedPhoneBook[i + 1]
+
+        if (next.startsWith(current)) {
+            return false
+        }
     }
-  }
 
-  return true
-
+    return true
 }
