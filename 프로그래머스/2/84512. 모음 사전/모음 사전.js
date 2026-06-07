@@ -1,13 +1,33 @@
 function solution(word) {
-    const chars = ["A", "E", "I", "O", "U"];
-    const weights = [781, 156, 31, 6, 1];
-    
-    let answer = 0;
-    
-    for(let i = 0; i < word.length; i++) {
-        const index = chars.indexOf(word[i]);
-        answer += index * weights[i] + 1;
+    const vowels = ["A", "E", "I", "O", "U"]
+
+    let count = 0
+    let answer = 0
+
+    const dfs = (current) => {
+        if (current.length > 5) return false
+
+        if (current.length > 0) {
+            count += 1
+
+            if (current === word) {
+                answer = count
+                return true
+            }
+        }
+
+        for (const vowel of vowels) {
+            const found = dfs(current + vowel)
+            
+            if (found) {
+                return true
+            }
+        }
+
+        return false
     }
-    
+
+    dfs('')
+
     return answer
 }
