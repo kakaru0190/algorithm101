@@ -1,34 +1,25 @@
 function solution(maps) {
-    const rows = maps.length;
-    const cols = maps[0].length;
+    const n = maps.length
+    const m = maps[0].length
 
-    const queue = [0];
-    let head = 0;
+    const queue = [[0, 0]]
+    let head = 0
 
-    const dr = [0, 0, 1, -1];
-    const dc = [1, -1, 0, 0];
+    const dx = [1, -1, 0, 0]
+    const dy = [0, 0, 1, -1]
 
     while (head < queue.length) {
-        const current = queue[head++];
-
-        const row = Math.floor(current / cols);
-        const col = current % cols;
-
+        const [x, y] = queue[head++]
+        
         for (let i = 0; i < 4; i++) {
-            const nextRow = row + dr[i];
-            const nextCol = col + dc[i];
-
-            if (nextRow < 0 || nextRow >= rows) continue;
-            if (nextCol < 0 || nextCol >= cols) continue;
-            if (nextRow === 0 && nextCol === 0) continue;
-            if (maps[nextRow][nextCol] !== 1) continue;
-
-            maps[nextRow][nextCol] = maps[row][col] + 1;
-            queue.push(nextRow * cols + nextCol);
+            const nx = x + dx[i]
+            const ny = y + dy[i]
+            if (nx < 0 || ny < 0 || nx >= n || ny >= m) continue
+            if (maps[nx][ny] !== 1) continue
+            maps[nx][ny] = maps[x][y] + 1
+            queue.push([nx, ny])
         }
     }
 
-    const answer = maps[rows - 1][cols - 1];
-
-    return answer === 1 ? -1 : answer;
+    return maps[n - 1][m - 1] === 1 ? -1 : maps[n - 1][m - 1]
 }
