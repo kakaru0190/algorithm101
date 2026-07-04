@@ -1,58 +1,54 @@
 function findStartPoint(board) {
-    for (let row = 0; row < board.length; row++) {
-        for (let col = 0; col < board[0].length; col++) {
-            if (board[row][col] === 'R') {
-                return [row, col, 0]
+    for (let y = 0; y < board.length; y++) {
+        for (let x = 0; x < board[0].length; x++) {
+            if (board[y][x] === 'R') {
+                return [x, y, 0]
             }
         }
     }
 }
 
 function solution(board) {
-    let answer = -1;
+    let answer = -1
 
-    const visited = Array.from({length: board.length}, () => Array(board[0].length).fill(false))
     const queue = [findStartPoint(board)]
+    const visited = Array.from({length: board.length}, () => Array(board[0].length).fill(false))
+
+    const dx = [1, -1, 0, 0]
+    const dy = [0, 0, 1, -1]
 
     let head = 0
 
-    const directions = [
-        [1, 0],
-        [0, 1],
-        [-1, 0],
-        [0, -1]
-    ]
+    visited[queue[0][1]][queue[0][0]] = true
 
-    visited[queue[0][0]][queue[0][1]] = true
     while (head < queue.length) {
-        const [row, col, count] = queue[head++]
+        const [x, y, count] = queue[head++]
 
-        if (board[row][col] === 'G') {
+        if (board[y][x] === 'G') {
             return count
         }
 
-        for (const [dr, dc] of directions) {
-            let nextRow = row
-            let nextCol = col
+        for (let i = 0; i < 4; i++) {
+            let nextX = x
+            let nextY = y
 
             while (true) {
-                const movedRow = nextRow + dr
-                const movedCol = nextCol + dc
+                const movedX = nextX + dx[i]
+                const movedY = nextY + dy[i]
 
-                if (movedRow < 0 || movedCol < 0) break
-                if (movedRow >= board.length || movedCol >= board[0].length) break
-                if (board[movedRow][movedCol] === "D") break
+                if (movedX < 0 || movedY < 0 || movedX >= board[0].length || movedY >= board.length) break
+                if (board[movedY][movedX] === 'D') break
 
-                nextRow = movedRow
-                nextCol = movedCol
+                nextX = movedX
+                nextY = movedY
             }
 
-            if (visited[nextRow][nextCol]) continue
+            if (visited[nextY][nextX]) continue
 
-            visited[nextRow][nextCol] = true
-            queue.push([nextRow, nextCol, count + 1])
+            visited[nextY][nextX] = true
+            queue.push([nextX, nextY, count + 1])
         }
     }
 
-    return answer;
+    return answer
 }
