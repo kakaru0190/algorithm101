@@ -1,33 +1,33 @@
 function solution(tickets) {
     tickets.sort((a, b) => {
-        if (a[0] === b[0]) {
+        if(a[0] === b[0]) {
             return a[1].localeCompare(b[1])
         }
         return a[0].localeCompare(b[0])
     })
 
+    const answer = ["ICN"]
     const visited = Array(tickets.length).fill(false)
-    const route = ["ICN"]
 
     const dfs = (current) => {
-        if (route.length === tickets.length + 1) {
+        if(answer.length === tickets.length + 1) {
             return true
         }
 
-        for (let i = 0; i < tickets.length; i++) {
-            const [from, to] = tickets[i]
+        for(let i = 0; i < tickets.length; i++) {
+            const [from , to] = tickets[i]
 
-            if (visited[i]) continue
-            if (current !== from) continue
+            if(visited[i]) continue
+            if(from !== current) continue
 
             visited[i] = true
-            route.push(to)
+            answer.push(to)
 
-            if (dfs(to)) {
+            if(dfs(to)) {
                 return true
             }
 
-            route.pop()
+            answer.pop()
             visited[i] = false
         }
 
@@ -36,5 +36,5 @@ function solution(tickets) {
 
     dfs("ICN")
 
-    return route
+    return answer
 }
