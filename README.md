@@ -12,11 +12,13 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kakaru0190/algorithm101/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kakaru0190/algorithm101/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/kakaru0190/algorithm101/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +55,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0226-invert-binary-tree/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
