@@ -44,11 +44,13 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kakaru0190/algorithm101/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kakaru0190/algorithm101/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0733-flood-fill](https://github.com/kakaru0190/algorithm101/tree/main/0733-flood-fill/) | Easy |
@@ -60,6 +62,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kakaru0190/algorithm101/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Sorting
