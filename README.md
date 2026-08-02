@@ -76,6 +76,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/kakaru0190/algorithm101/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/kakaru0190/algorithm101/tree/main/0704-binary-search/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -93,4 +94,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kakaru0190/algorithm101/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/kakaru0190/algorithm101/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
