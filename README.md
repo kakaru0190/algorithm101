@@ -41,6 +41,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kakaru0190/algorithm101/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kakaru0190/algorithm101/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -104,4 +105,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/kakaru0190/algorithm101/tree/main/0383-ransom-note/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kakaru0190/algorithm101/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kakaru0190/algorithm101/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
