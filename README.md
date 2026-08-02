@@ -16,12 +16,14 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0001-two-sum](https://github.com/kakaru0190/algorithm101/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kakaru0190/algorithm101/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/kakaru0190/algorithm101/tree/main/0383-ransom-note/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kakaru0190/algorithm101/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/kakaru0190/algorithm101/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/kakaru0190/algorithm101/tree/main/0383-ransom-note/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +100,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/kakaru0190/algorithm101/tree/main/0278-first-bad-version/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/kakaru0190/algorithm101/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
