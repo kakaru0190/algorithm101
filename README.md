@@ -17,6 +17,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0141-linked-list-cycle](https://github.com/kakaru0190/algorithm101/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/kakaru0190/algorithm101/tree/main/0383-ransom-note/) | Easy |
+| [0409-longest-palindrome](https://github.com/kakaru0190/algorithm101/tree/main/0409-longest-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0125-valid-palindrome](https://github.com/kakaru0190/algorithm101/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/kakaru0190/algorithm101/tree/main/0383-ransom-note/) | Easy |
+| [0409-longest-palindrome](https://github.com/kakaru0190/algorithm101/tree/main/0409-longest-palindrome/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +115,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/kakaru0190/algorithm101/tree/main/0070-climbing-stairs/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0409-longest-palindrome](https://github.com/kakaru0190/algorithm101/tree/main/0409-longest-palindrome/) | Easy |
 <!---LeetCode Topics End-->
