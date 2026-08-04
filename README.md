@@ -36,10 +36,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kakaru0190/algorithm101/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kakaru0190/algorithm101/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/kakaru0190/algorithm101/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kakaru0190/algorithm101/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/kakaru0190/algorithm101/tree/main/0206-reverse-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
