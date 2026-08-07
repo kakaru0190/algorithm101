@@ -61,12 +61,14 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0110-balanced-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kakaru0190/algorithm101/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kakaru0190/algorithm101/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/kakaru0190/algorithm101/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -79,6 +81,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0110-balanced-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kakaru0190/algorithm101/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +146,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/kakaru0190/algorithm101/tree/main/0067-add-binary/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
