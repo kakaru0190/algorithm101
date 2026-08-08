@@ -9,6 +9,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0001-two-sum](https://github.com/kakaru0190/algorithm101/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kakaru0190/algorithm101/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/kakaru0190/algorithm101/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/kakaru0190/algorithm101/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/kakaru0190/algorithm101/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/kakaru0190/algorithm101/tree/main/0733-flood-fill/) | Easy |
 ## Hash Table
@@ -17,6 +18,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0001-two-sum](https://github.com/kakaru0190/algorithm101/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kakaru0190/algorithm101/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/kakaru0190/algorithm101/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/kakaru0190/algorithm101/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/kakaru0190/algorithm101/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/kakaru0190/algorithm101/tree/main/0409-longest-palindrome/) | Easy |
@@ -92,6 +94,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kakaru0190/algorithm101/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/kakaru0190/algorithm101/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
