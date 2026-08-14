@@ -12,6 +12,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kakaru0190/algorithm101/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/kakaru0190/algorithm101/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kakaru0190/algorithm101/tree/main/0217-contains-duplicate/) | Easy |
+| [0542-01-matrix](https://github.com/kakaru0190/algorithm101/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/kakaru0190/algorithm101/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/kakaru0190/algorithm101/tree/main/0733-flood-fill/) | Easy |
 ## Hash Table
@@ -56,6 +57,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0053-maximum-subarray](https://github.com/kakaru0190/algorithm101/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/kakaru0190/algorithm101/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kakaru0190/algorithm101/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0542-01-matrix](https://github.com/kakaru0190/algorithm101/tree/main/0542-01-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0226-invert-binary-tree/) | Easy |
+| [0542-01-matrix](https://github.com/kakaru0190/algorithm101/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/kakaru0190/algorithm101/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -107,6 +110,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/kakaru0190/algorithm101/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/kakaru0190/algorithm101/tree/main/0733-flood-fill/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
