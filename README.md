@@ -15,6 +15,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0542-01-matrix](https://github.com/kakaru0190/algorithm101/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/kakaru0190/algorithm101/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/kakaru0190/algorithm101/tree/main/0733-flood-fill/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/kakaru0190/algorithm101/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0169-majority-element](https://github.com/kakaru0190/algorithm101/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kakaru0190/algorithm101/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kakaru0190/algorithm101/tree/main/0242-valid-anagram/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/kakaru0190/algorithm101/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- | ------- |
 | [0067-add-binary](https://github.com/kakaru0190/algorithm101/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/kakaru0190/algorithm101/tree/main/0070-climbing-stairs/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/kakaru0190/algorithm101/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +154,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kakaru0190/algorithm101/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/kakaru0190/algorithm101/tree/main/0169-majority-element/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/kakaru0190/algorithm101/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +171,20 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kakaru0190/algorithm101/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kakaru0190/algorithm101/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kakaru0190/algorithm101/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kakaru0190/algorithm101/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kakaru0190/algorithm101/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
